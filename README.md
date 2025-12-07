@@ -4,7 +4,6 @@
 
 ![NixOS](https://img.shields.io/badge/NixOS-unstable-blue?style=flat-square&logo=nixos)
 ![XMonad](https://img.shields.io/badge/XMonad-tiling%20wm-purple?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 ![Powerlevel10k](https://img.shields.io/badge/Zsh-Powerlevel10k-orange?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/nebunix/nebunix-xmonad-edition?style=flat-square)
