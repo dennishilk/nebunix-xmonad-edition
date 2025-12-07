@@ -8,7 +8,8 @@
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 ![Powerlevel10k](https://img.shields.io/badge/Zsh-Powerlevel10k-orange?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/nebunix/nebunix-xmonad-edition?style=flat-square)
-
+![Last Commit](https://img.shields.io/github/last-commit/nebunix/nebunix-xmonad-edition?style=flat-square)
+![Open Issues](https://img.shields.io/github/issues/nebunix/nebunix-xmonad-edition?style=flat-square)
 
 
 ------------------------------------------------------------------------
