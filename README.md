@@ -10,7 +10,8 @@
 ![GitHub
 stars](https://img.shields.io/github/stars/nebunix/nebunix-xmonad-edition?style=flat-square)
 ![GitHub
-forks](https://img.shields.io/github/forks/nebunix/nebunix-xmonad-edition?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+
 
 ------------------------------------------------------------------------
 
